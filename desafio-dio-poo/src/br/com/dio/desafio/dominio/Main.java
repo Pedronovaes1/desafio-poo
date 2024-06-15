@@ -20,5 +20,8 @@ public class Main {
 
         System.out.println(mentoria);
 
+        Conteudo conteudo = new Curso();
+        Conteudo conteudo1 = new Mentoria();
+
     }
 }
